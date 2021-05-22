@@ -187,3 +187,7 @@ main {
 .percentage {
   font-weight: bold;
 }
+
+.avatar {
+  width: 100px;
+}
